@@ -24,4 +24,6 @@ I use **Git** daily in multiple platforms like GitHub, Gitlab, or Bitbucket. Als
 
 I'm a long-time GNU/Linux user (and fan!) having it as my main work/development OS.
 
-You can find me as [lulivi](t.me/lulivi) @ Telegram.
+You can find me as [lulivi](https://t.me/lulivi) @ Telegram.
+
+You can take a look at my [CV](https://lulivi.github.io/cv) if you want!
